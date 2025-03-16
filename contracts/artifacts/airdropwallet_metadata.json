@@ -1,0 +1,58 @@
+{
+	"compiler": {
+		"version": "0.8.25+commit.b61c2a91"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "airdrop",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/airdrop.sol": "airdropwallet"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/airdrop.sol": {
+			"keccak256": "0x1e98b79b523cbcb4cc7e82b5153057474fbb99e013d041f004425785d6a01701",
+			"urls": [
+				"bzz-raw://e21cdcbc5279126baead04bbbc242596f0ed27a274f321a6f7a058e14f586d39",
+				"dweb:/ipfs/QmVrLRWUbyooxq7ysqHwM4eMEbeChzR99xSc2woqNL3GKk"
+			]
+		}
+	},
+	"version": 1
+}

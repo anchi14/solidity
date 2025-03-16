@@ -1,0 +1,52 @@
+{
+	"compiler": {
+		"version": "0.8.25+commit.b61c2a91"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "updatesBalance",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/ledgerBalance.sol": "Updated"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/ledgerBalance.sol": {
+			"keccak256": "0xedc925bbc0d31b6de4d5fd31400483c8477d59e8ebb915713fdd73073e3e1309",
+			"urls": [
+				"bzz-raw://395bc9d39924a39943302be86ccc1e07e0fc17268c2a3a0fc296f03cb166f7b1",
+				"dweb:/ipfs/QmdhVjo74H8jMxJQiREUueyAEzZLj1DWMmJnACyigHQw8L"
+			]
+		}
+	},
+	"version": 1
+}
